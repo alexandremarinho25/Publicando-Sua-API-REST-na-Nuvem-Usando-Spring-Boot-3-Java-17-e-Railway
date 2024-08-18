@@ -1,0 +1,38 @@
+@@ -0,0 +1,37 @@
+AJUDA.md
+.gradle
+construir /
+! gradle / wrapper / gradle-wrapper.jar
+! ** / src / principal / ** / construir /
+! ** / src / teste / ** / construir /
+
+# ## STS ###
+.apt_gerado
+.caminho de classe
+.caminho de fábrica
+.projeto
+.configurações
+.springBeans
+.sts4-cache
+lata /
+! ** / src / principal / ** / bin /
+! ** / src / teste / ** / bin /
+
+# ## IDEIA IntelliJ ###
+.ideia
+* .iws
+* .iml
+* .ipr
+fora /
+! ** / src / principal / ** / fora /
+! ** / src / teste / ** / fora /
+
+# ## NetBeans ###
+/ nbproject / privado /
+/ nbbuild /
+/ distrito /
+/ nbdist /
+/ .nb-gradle /
+
+# ## Código VS ###
+.vscode /
